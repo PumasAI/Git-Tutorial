@@ -1,3 +1,3 @@
 # Git-Tutorial
 
-I am changing this?
+This is my not so fancy git and github tutorial.
